@@ -8,6 +8,5 @@ This project aims to create a model to predict the probability of a region flood
 5. Creating the models hyperparameter tuner and estimators.
 6. Testing the hyperparameter and selecting the best of the estimators.
 7. Using the new hyperparameters, provide how different is base model from the tuned or generalized model.
-8. Providing the visuals to prove the difference and Conclude the project. 
  
 
